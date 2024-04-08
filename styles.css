@@ -1,0 +1,18 @@
+body {
+    font-size: 20px;
+    background: linear-gradient(to top, Papayawhip, rgb(225, 136, 97))
+}
+h1.center {
+    text-align: center;
+    color: white;
+}
+ol.left {
+    text-align: justify;
+    padding-left: 100mm;
+    padding-right: 95mm;
+}
+img.fix {
+    width: 35mm;
+    height: 35mm;
+    vertical-align: middle;
+}
